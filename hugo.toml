@@ -23,7 +23,7 @@ pagination.pagerSize     = 10
   enableGlobalLanguageMenu = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "Illumi Group, AI Contracting"
   keywords = "homepage, blog"
   images = [""]
 
